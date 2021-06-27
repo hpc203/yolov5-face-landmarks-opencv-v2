@@ -8,5 +8,7 @@
 
 (3). 后处理方式稍有不同
 
+(4). 在yolov5网络结构里的第一个模块是StemBlock，不再是FCOUS
+
 onnx文件在百度云盘，下载链接：https://pan.baidu.com/s/1KXtKykQ0qroA5WyO3hko0g 
 提取码：376l 
